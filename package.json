@@ -1,0 +1,27 @@
+{
+  "name": "scraelmbr",
+  "version": "1.0.0",
+  "description": "Scramble strings whilst retaining their readability. This is pointless.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpwilliams/scraemblr.git"
+  },
+  "keywords": [
+    "scramble",
+    "scrambler",
+    "words",
+    "strings",
+    "encrypt",
+    "cambridge"
+  ],
+  "author": "Jack Williams <jpwilliamsphotography@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpwilliams/scraemblr/issues"
+  },
+  "homepage": "https://github.com/jpwilliams/scraemblr#readme"
+}
