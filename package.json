@@ -1,6 +1,6 @@
 {
   "name": "scraelmbr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Scramble strings whilst retaining their readability. This is pointless.",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,8 @@
     "words",
     "strings",
     "encrypt",
-    "cambridge"
+    "cambridge",
+    "typoglycemia"
   ],
   "author": "Jack Williams <jpwilliamsphotography@gmail.com>",
   "license": "ISC",
